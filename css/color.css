@@ -1,0 +1,44 @@
+/*.red {*/
+    /*color: black;*/
+
+/*}*/
+.red p {
+    color: yellow;
+
+}
+p.green {
+    color: green;
+
+}
+/*.black p{*/
+    /*color:black;*/
+/*}*/
+/*body b{*/
+    /*color:yellow ;*/
+/*}*/
+
+/*.white {*/
+    /*color: white;*/
+
+/*}*/
+/*a[href] {*/
+    /*color:yellow;*/
+/*}*/
+ul li {
+    color: yellow;
+
+}
+
+div:hover{
+    /*color: red;*/
+}
+.red:hover{
+    color: red;
+}
+#ii:active{
+
+}
+.div .ll .red a:active {
+
+}
+[color="black"]
